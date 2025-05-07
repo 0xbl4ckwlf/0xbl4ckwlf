@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I’m Blackwolf 👋
+### Hey, I’m Blackwolf 👋
 I’m an independent blockchain security researcher, currently learning and growing through audit contests on platforms like Code4rena, Sherlock, and Codehawks. I’m passionate about making smart contracts safer and constantly improving my skills by diving into real-world code and vulnerabilities.
 
 Still early in my journey, but fully committed to becoming a top-tier auditor. Always exploring, always learning.
